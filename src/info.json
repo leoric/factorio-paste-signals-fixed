@@ -4,7 +4,7 @@
 	"title": "Paste Signals Fixed",
 	"author": "huancz",
 	"contact": "github: huancz/factorio-PasteSignalsFixed, discord: huan5122",
-	"description": "Allows copying of signals from a power pole to a Constant Combinator, effectively snapshotting the values. Fixed for factorio 2.0",
+	"description": "Allows copying of signals from a power pole to a Constant Combinator, effectively snapshotting the values. Fixed for factorio 2.0-2.1",
 	"factorio_version": "2.1",
 	"dependencies": []
 }
