@@ -96,5 +96,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.release_tag.outputs.release_tag }}
+          target_commitish: ${{ github.sha }}
           files: build/${{ steps.info.outputs.zip_name }}
           generate_release_notes: true
